@@ -2,6 +2,6 @@
     remote = origin
 ['remote "origin"']
     url = s3://dataops
-    endpointurl = http://194.233.80.15:9090/
+    endpointurl = http://194.233.80.15:9000/
     access_key_id = minio
     secret_access_key = minio123
